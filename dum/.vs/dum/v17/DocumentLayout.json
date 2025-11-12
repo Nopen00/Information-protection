@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nopen\\Desktop\\LLTTYY\\3-2\\Information protection\\dum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB40632-0050-47C1-AB5F-9D72875EA3CD}|dum\\dum.vcxproj|C:\\Users\\Nopen\\Desktop\\LLTTYY\\3-2\\Information protection\\dum\\dum\\des.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCB40632-0050-47C1-AB5F-9D72875EA3CD}|dum\\dum.vcxproj|solutionrelative:dum\\des.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB40632-0050-47C1-AB5F-9D72875EA3CD}|dum\\dum.vcxproj|C:\\Users\\Nopen\\Desktop\\LLTTYY\\3-2\\Information protection\\dum\\dum\\aes.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCB40632-0050-47C1-AB5F-9D72875EA3CD}|dum\\dum.vcxproj|solutionrelative:dum\\aes.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB40632-0050-47C1-AB5F-9D72875EA3CD}|dum\\dum.vcxproj|C:\\Users\\Nopen\\Desktop\\LLTTYY\\3-2\\Information protection\\dum\\dum\\bit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCB40632-0050-47C1-AB5F-9D72875EA3CD}|dum\\dum.vcxproj|solutionrelative:dum\\bit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB40632-0050-47C1-AB5F-9D72875EA3CD}|dum\\dum.vcxproj|C:\\Users\\Nopen\\Desktop\\LLTTYY\\3-2\\Information protection\\dum\\dum\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCB40632-0050-47C1-AB5F-9D72875EA3CD}|dum\\dum.vcxproj|solutionrelative:dum\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB40632-0050-47C1-AB5F-9D72875EA3CD}|dum\\dum.vcxproj|C:\\Users\\Nopen\\Desktop\\LLTTYY\\3-2\\Information protection\\dum\\dum\\aesenc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCB40632-0050-47C1-AB5F-9D72875EA3CD}|dum\\dum.vcxproj|solutionrelative:dum\\aesenc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test.c",
+              "DocumentMoniker": "C:\\Users\\Nopen\\Desktop\\LLTTYY\\3-2\\Information protection\\dum\\dum\\test.c",
+              "RelativeDocumentMoniker": "dum\\test.c",
+              "ToolTip": "C:\\Users\\Nopen\\Desktop\\LLTTYY\\3-2\\Information protection\\dum\\dum\\test.c",
+              "RelativeToolTip": "dum\\test.c",
+              "ViewState": "AgIAAA8CAAAAAAAAAADwvxUCAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-14T02:05:40.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "des.c",
+              "DocumentMoniker": "C:\\Users\\Nopen\\Desktop\\LLTTYY\\3-2\\Information protection\\dum\\dum\\des.c",
+              "RelativeDocumentMoniker": "dum\\des.c",
+              "ToolTip": "C:\\Users\\Nopen\\Desktop\\LLTTYY\\3-2\\Information protection\\dum\\dum\\des.c",
+              "RelativeToolTip": "dum\\des.c",
+              "ViewState": "AgIAAMEBAAAAAAAAAAAAAB4BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-14T02:05:35.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bit.c",
+              "DocumentMoniker": "C:\\Users\\Nopen\\Desktop\\LLTTYY\\3-2\\Information protection\\dum\\dum\\bit.c",
+              "RelativeDocumentMoniker": "dum\\bit.c",
+              "ToolTip": "C:\\Users\\Nopen\\Desktop\\LLTTYY\\3-2\\Information protection\\dum\\dum\\bit.c",
+              "RelativeToolTip": "dum\\bit.c",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAswFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-14T02:05:27.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "aesenc.c",
+              "DocumentMoniker": "C:\\Users\\Nopen\\Desktop\\LLTTYY\\3-2\\Information protection\\dum\\dum\\aesenc.c",
+              "RelativeDocumentMoniker": "dum\\aesenc.c",
+              "ToolTip": "C:\\Users\\Nopen\\Desktop\\LLTTYY\\3-2\\Information protection\\dum\\dum\\aesenc.c",
+              "RelativeToolTip": "dum\\aesenc.c",
+              "ViewState": "AgIAAJkDAAAAAAAAAADwv68DAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-14T02:05:20.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "aes.c",
+              "DocumentMoniker": "C:\\Users\\Nopen\\Desktop\\LLTTYY\\3-2\\Information protection\\dum\\dum\\aes.c",
+              "RelativeDocumentMoniker": "dum\\aes.c",
+              "ToolTip": "C:\\Users\\Nopen\\Desktop\\LLTTYY\\3-2\\Information protection\\dum\\dum\\aes.c",
+              "RelativeToolTip": "dum\\aes.c",
+              "ViewState": "AgIAACICAAAAAAAAAAAswDACAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-14T02:05:13.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

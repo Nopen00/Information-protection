@@ -1,4 +1,5 @@
 from tensorflow.keras import datasets, layers, models
+import matplotlib.pyplot as plt
 
 # CIFAR-100 데이터 불러오기
 (x_train, y_train), (x_test, y_test) = datasets.cifar100.load_data()
@@ -40,3 +41,34 @@ print("=" * 50)
 model.save("lenet_cifar100.h5")
 print("모델이 'lenet_cifar100.h5'로 저장되었습니다.")
 
+# 모델 저장
+model.save("lenet_cifar100.h5")
+print("모델이 'lenet_cifar100.h5'로 저장되었습니다.")
+
+# 학습 히스토리 그래프 시각화
+plt.figure(figsize=(12, 4))
+
+# 정확도 그래프
+plt.subplot(1, 2, 1)
+plt.plot(history.history['accuracy'], label='Train Accuracy', marker='o')
+plt.plot(history.history['val_accuracy'], label='Validation Accuracy', marker='s')
+plt.xlabel('Epoch')
+plt.ylabel('Accuracy')
+plt.title('CIFAR-100 LeNet Accuracy')
+plt.legend()
+plt.grid(True)
+
+# 손실 그래프
+plt.subplot(1, 2, 2)
+plt.plot(history.history['loss'], label='Train Loss', marker='o')
+plt.plot(history.history['val_loss'], label='Validation Loss', marker='s')
+plt.xlabel('Epoch')
+plt.ylabel('Loss')
+plt.title('CIFAR-100 LeNet Loss')
+plt.legend()
+plt.grid(True)
+
+plt.tight_layout()
+plt.savefig('lenet_cifar100_training.png')
+print("그래프가 'lenet_cifar100_training.png'로 저장되었습니다.")
+plt.show()
